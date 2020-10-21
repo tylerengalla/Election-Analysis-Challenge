@@ -10,7 +10,7 @@ import os
 file_to_load = "/Users/tylerengalla/Desktop/Data_Bootcamp/Analysis_Projects/Election_Analysis/Resources/election_results.csv"
 # Add a variable to save the file to a path.
 #file_to_save = os.path.join("analysis", "election_analysis.txt")
-file_to_save = "/Users/tylerengalla/Desktop/Data_Bootcamp/Analysis_Projects/Election_Analysis/election_analysis.txt"
+file_to_save = "/Users/tylerengalla/Desktop/Data_Bootcamp/Analysis_Projects/Election_Analysis/election_results.txt"
 
 # Initialize a total vote counter.
 total_votes = 0
