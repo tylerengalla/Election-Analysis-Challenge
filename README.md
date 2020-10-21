@@ -34,4 +34,7 @@ The Winning Candidate:
 
 
 ## Election-Audit Summary
-For the election committees' consideration, the script used can be leveraged for future elections to perform similar analysis. 
+For the election committees' consideration, the script used can be leveraged for future elections to perform similar analysis. You simply need to change what the dictionary, list, and variables you're wanting to track and analyze. 
+
+Example: If Party Votes were tracked and we wanted to track every party that was voted for we create the list: party_options = []
+and to track these votes we create the dictionary party_votes = {}. 
